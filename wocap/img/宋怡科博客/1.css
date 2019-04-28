@@ -1,0 +1,87 @@
+*{
+	margin:0;
+	padding:0;
+}
+.left{
+	position:absolute;
+	left:0;
+	top:0;
+	width:400px;
+	height:1000px;
+	background-color:#928cf8;
+}
+.left .top{
+	width:400px;
+	height:250px;
+	border-top:2px solid #000;
+}
+.left .top .img1{
+	margin:20px 0 0 50px;
+}
+.left .top h1{
+	margin:-117px 0 0 257px;
+	color:#fff;
+}
+.left .top p{
+	margin:10px 0 0 234px;
+	color:#fff;
+}
+.left .center{
+	width:400px;
+	height:350px;
+	border-top:2px solid #000;
+}
+.left .center i{
+	font-size:35px;
+	line-height:35px;
+	margin-left:50px;
+	display:block;
+	margin-top:50px;
+	color:#000;
+}
+.left .bottom{
+	width:400px;
+	height:400px;
+	border-top:2px solid #000;
+}
+.left .bottom h1{
+	margin:20px 0 0 150px;
+}
+.midden{
+	position:absolute;
+	left:400px;
+	top:0;
+	width:650px;
+	height:1000px;
+	background-color:#ff0;
+}
+.midden .box{
+	width:650px;
+	height:300px;
+	border-bottom:2px solid #000;
+}
+.midden .box h1{
+	
+	margin:20px 0 0 50px;
+}
+.midden .box .txt{
+	text-decoration:none;
+	color:#000;
+	margin:20px 0 0 50px;
+	font-size:20px;
+	font-family:"黑体";
+}
+.midden .box .txt1{
+	margin-top:100px;
+	margin-left:50px;
+}
+.right{
+	position:absolute;
+	left:1050px;
+	top:0;
+	width:850px;
+	height:1000px;
+	background-image:url(img/代码.jpg);
+	background-size:850px 1000px;
+}
+

@@ -1,0 +1,21 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1552348776689'); /* IE9 */
+  src: url('iconfont.eot?t=1552348776689#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAQwAAsAAAAACDQAAAPkAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCCcAqEPINoATYCJAMICwYABCAFhG0HNBsSB1GUDU6G7OMwbvjKEkWYTFEK5eSf/x1BtUb27O0TgETUnETIqC8fLA/kLLCMRkks9A292/4AYw47zmrEytwQazpndb2KJL5e1mfFH/dT/0o8H9Acq5r+jZJ2Axwl0EArAmwaoLhh7CbKg5hOoNYgC7SDgLA4gMhAvUCccznZAEnJ5Rp0qBYqS7pm8ZCo6nQr3QE84L+Pv9iBkFQUQNTxZf884PXjAIwomstmaRTBGE8LrRcF5gGZuFCqP8QI/fMYah29iNH62Cz4caD8T+mr/eMRRCXArxcJ/fRzYmDmqfIT/TyjAY8B/3tZaAjQdIeWuqKclLS8rJRcHR4fx+Oho/D9J5jHH5vP7e7bUZt5aN9C61O5LkwQCJLH0d5Tl845HDlzYTscXXlTQGsRJvL58Txe5qrDJHqEx5peVlux7zim0HZuLW7+gtGk+uySxtJlY6UJtZn5rMLX6QsFDsd4PH7i2mUV5sRBuHwBRScPZR0SOPQqHuHFH+Tb96kc159bjZtWRHsvaa8KVVQ2LmrNLCRqVqFAYFf/jiv81D7mxEXdlQOKaAut95Le6mHHB6eHyVCgF1BNn9uiNdN8dKeKhyWWIfP9acPT33/DgwAgw6H6AyAyNc9ter3JElWVVrrjFXVH6Z+qWBRbKzMlt3baFgQjj956n14M0gbTXxPX6ssQ6O4nXm8YeKwuOiLLzRepM7ILeHIpvT1nm+M3W7G+pdmYa0pARrRDRJOoj0lKHukaKdXBV0Vmjh2e07/cYEc7yNA/3wyKEXf3g0hZmmqmrBfi7iseo+5YoKGFX9prkZbRUxckd16zwOgj3Hy3HYOVZ5Ii1bEWSVLiTUR9mhwiZMQiPi1FsRte0GlaimbXAy8A5f3iTXHxD1fzWqn9daaM29dq5lfP+bi3K1+ylvezdkag+j0Ygv/JaJmWXRZQpGwzSsPJY1LvKaZWLUogm1s97WvsAGJtqNYZIiRVBqBQbRyTCfNQoc4CVKq2DbXmBPau04bEELkGszoECM32Q9LoBRSa3cVkwhOo0OkLVGoOBtS6FApD1pkMLupLYtkUlgdzaiA3lyjBkYpCA3QMxqkoyiaTLE5MwMhyrgvaWLGyoUCsBCPHaFFeyWFTFA5xkiiGAcJsWFERAUtJogDLpazyKarUxdoaL7uQVS5RDFD7SJhsFEweKEcNiCsXoQROs1PQ3PdjYDgqFMlG1qR0aBNgSOW45UM2rLBaYAL5Ja1SrmWXcpU42CgUHIQjEYpBAYIWUwT9BKi0vFIBTC6Klfwe3lIurKVMeFu+1fzC4qdbArWAJAW0FmqvnL2FU5ufTWQAAA==') format('woff2'),
+  url('iconfont.woff?t=1552348776689') format('woff'),
+  url('iconfont.ttf?t=1552348776689') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1552348776689#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-xiongzhang:before {
+  content: "\e6b0";
+}
+
